@@ -8,3 +8,9 @@ Primera práctica con repositorios remotos de Git
 - git add
 - git commit
 - git push
+
+
+## Trabajo con IDE
+
+
+Este repositorio también se ha gestionado desde Apache NetBeans.
