@@ -1,5 +1,5 @@
 public class Mensaje {
     public static void main(String[] args) {
-        System.out.println("Primer commit desde VS Code");
+        System.out.println("Segundo commit desde VS Code");
     }
 }
